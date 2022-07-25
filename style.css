@@ -1,0 +1,21 @@
+.panda-bg {
+    background-color: #fceae8;
+}
+
+.panda-btn-buy {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.dollar-color {
+    color: #FF136F;
+}
+
+.cetagories img {
+    width: 100px;
+    padding: 10px 0;
+}
